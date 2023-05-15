@@ -1,4 +1,4 @@
-# WinUI and iOS. InputTransparent does not work. MAUI bug 
+# WinUI and iOS. InputTransparent does not work. MAUI bug [#15087](https://github.com/dotnet/maui/issues/15087)
 
 
 If a Label with `InputTransparent="True"` is drawn over another Control, the other control does not get input.  
